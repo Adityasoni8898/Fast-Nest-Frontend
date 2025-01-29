@@ -14,7 +14,6 @@ Fast-Nest is a lightweight social media app built using **Android Kotlin (MVVM)*
 ---
 
 ## 🔌 Backend API Endpoints
-Fast-Nest interacts with a **FastAPI-based backend** hosted at `http://localhost:8000/`.  
 Here are the key API endpoints:
 
 | Method | Endpoint               | Description |
